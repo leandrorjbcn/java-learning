@@ -1,5 +1,7 @@
 /**
- * This class provides a implementation of the simple print to a String.
+ * Name: helloWorld
+ * 
+ * Description: This class provides a implementation of the simple print to a String.
  * 
  * @author: Yandi Sarden
  * @author: Leandro Rjbcn
