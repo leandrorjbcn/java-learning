@@ -1,5 +1,5 @@
 /**
- * This class provides a implementation of the simple subtract operation.
+ * This class provides an implementation of the simple subtract operation.
  *  
  * @author: Leandro Rjbcn
  * @version: 1.0, 28/05/2020
