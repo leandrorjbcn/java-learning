@@ -9,7 +9,7 @@ public class Power {
 	 * @param b
 	 * @return an integer result of the division from a and b
 	 */
-	public static int division(int a, int b) {
+	public static int power(int a, int b) {
 
 		return (int) Math.pow(a, b);
 	}
