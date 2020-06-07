@@ -1,3 +1,11 @@
+/**
+ * This class provides an implementation of the simple power operation.
+ * 
+ * @author Leandro Rjbcn
+ * @version 1.0, 06/06/2020
+ * @since: 1.0
+ */
+
 package p0005Power;
 
 public class Power {
